@@ -1,0 +1,7 @@
+skill_id,skill_code,skill_name,skill_category
+1,AI_PLAN,AI企画,企画
+2,DATA_ANALYSIS,データ分析,分析
+3,CLOUD,クラウド,基盤
+4,BACKEND,バックエンド,開発
+5,FRONTEND,フロントエンド,開発
+6,PM,PM,マネジメント

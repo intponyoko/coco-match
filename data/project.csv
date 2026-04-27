@@ -1,0 +1,7 @@
+project_id,sales_target_id,period_id,project_code,project_name,project_status
+1,1,1,PJ-001,2026-Q1 AI企画案件 1,draft
+2,2,2,PJ-002,2026-Q2 バックエンド案件 1,draft
+3,2,2,PJ-003,2026-Q2 データ分析案件 2,draft
+4,3,3,PJ-004,2026-Q3 PM案件 1,draft
+5,3,3,PJ-005,2026-Q3 クラウド案件 2,draft
+6,4,4,PJ-006,2026-Q4 フロントエンド案件 1,draft

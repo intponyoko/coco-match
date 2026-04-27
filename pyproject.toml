@@ -1,0 +1,16 @@
+[project]
+name = "coco-matching-mock"
+version = "0.1.0"
+description = "Streamlit mock app for assignment planning aligned with growth strategy"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "pandas>=2.2.3",
+    "pandera>=0.31.1",
+    "streamlit>=1.44.0",
+    "watchdog>=6.0.0",
+    "z3-solver>=4.13.0",
+]
+
+[tool.uv]
+package = false
