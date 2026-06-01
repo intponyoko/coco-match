@@ -1,0 +1,23 @@
+:root {
+  --color-bg: #ffffff;
+  --color-surface: #f7f9fc;
+  --color-border: #c5d1e0;
+  --color-text: #1a1a1c;
+  --color-muted: #565f6b;
+  --color-primary: #0017c1;
+  --color-primary-hover: #000082;
+  --color-success: #008a45;
+  --color-warning: #c16800;
+  --color-danger: #d50000;
+  --color-info: #0066cc;
+  --color-focus: #ffcc00;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --radius: 4px;
+  --shadow: none;
+  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}

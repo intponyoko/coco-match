@@ -1,80 +1,83 @@
-# Coco Matching Mock
+# COCOM
 
-成長戦略の売上目標から仮想PJを導き、人材の保有スキル・キャリア目標と突き合わせてアサインを確認する Streamlit モックです。
+COCOM is a small planning sandbox for generating sample organization data,
+creating opportunity/request drafts from SalesPlan and past-case knowledge, and
+matching approved requests to staff capacity.
 
-## セットアップ
+## Planning Commands
 
 ```bash
-uv sync --python 3.12
+uv run propose-theme-solutions
+uv run propose-project-requests
+uv run materialize-opportunities
+uv run propose-assignment-options
+uv run propose-assignments
+uv run finalize-assignments
+uv run run-all
+uv run serve-api
 ```
 
-## 起動
+Generate demo input CSVs separately when needed:
+
+```bash
+uv run generate-sample
+```
+
+HITL review is exposed through the stateless FastAPI endpoints under
+`/api/v1/pipeline/*`. Existing unversioned `/pipeline/*` endpoints are kept for
+compatibility. The local CSV commands are adapters around the same subpipelines;
+later stages consume table-level approvals carried in the API payload. Local CSV
+commands treat their loaded review tables as already approved.
+
+AI-assisted HITL endpoints are exposed under `/api/v1/agent/*` with unversioned
+aliases under `/agent/*`. They run with a deterministic local fallback by
+default. Set the Foundry variables to use Azure AI Foundry Agent Service.
+
+```bash
+AZURE_FOUNDRY_PROJECT_ENDPOINT=https://<foundry-resource>.services.ai.azure.com/api/projects/<project-name>
+AZURE_FOUNDRY_AGENT_ID=<agent-id>
+AZURE_FOUNDRY_API_VERSION=v1
+AZURE_FOUNDRY_BEARER_TOKEN=<local-test-token>
+```
+
+The Astro app calls `/api/v1` by default. Override with
+`PUBLIC_COCO_MATCH_API_PREFIX=""` if you need to call the legacy unversioned
+routes.
+
+## Docker SSG Deployment
+
+The repository includes a multi-stage `Dockerfile` that builds the Astro SSG app
+and serves it from the FastAPI container. The browser and API share one origin,
+so CORS is not involved.
+
+```bash
+docker build -t coco-match:ssg .
+docker run --rm -p 8000:8000 coco-match:ssg
+```
+
+The container serves:
+
+- `/` and page routes such as `/sales-plan/` from Astro static files
+- `/api/v1/*` from FastAPI
+- legacy `/pipeline/*` and `/agent/*` routes for compatibility
+
+For cross-origin deployments, set `COCO_MATCH_CORS_ORIGINS` to a comma-separated
+allowlist such as `https://coco-match.example.com`. The default remains `*` for
+local development and same-origin SSG deployment does not require CORS.
+
+Open the Streamlit review app with:
 
 ```bash
 uv run streamlit run app.py
 ```
 
-## 実装方針
+## Structure
 
-- 正規化済みテーブルを `pandera` で検証します。
-- 画面で表示する `成長戦略 / キャリア計画 / スキルシート / 仮想PJ / アサイン計画` は、正規化テーブルの JOIN ビューとして構成します。
-- ダミーデータは `data/*.csv` を編集することで差し替えできます。
-
-## 主要画面
-
-0. モック概要
-   正規化モデルの概要、現在のテーブル件数、JOIN ビューの確認、エクスポートを行います。
-1. 成長戦略の入力
-   `時期 / お金` のCSVを投入します。`お金` は売上目標額として扱います。
-2. キャリア計画の入力
-   `ID / 時期 / スキル / スキルのLv` のCSVを投入します。
-3. スキルシートの入力
-   `ID / スキル / スキルのLv` のCSVを投入します。
-4. 仮想PJの出力
-   正規化テーブルから生成した案件テーブルを JOIN 表示します。
-5. アサイン計画の出力
-   正規化テーブルから生成したアサインテーブルを JOIN 表示します。
-6. シフト最適化デモ
-   既存の制約最適化デモです。
-
-## マスタ管理
-
-`(開発者用)マスタ管理` セクションでは、以下の全テーブルを個別ページで編集できます。
-
-- `sales_strategy`
-- `fiscal_period`
-- `sales_target`
-- `skill`
-- `employee`
-- `employee_skill`
-- `career_goal`
-- `project`
-- `project_required_skill`
-- `assignment`
-
-セクション先頭の `マスタ管理ガイド` には ER 図と各テーブルの役割を載せています。
-
-## ダミーデータ
-
-ダミーデータは `data/` 配下のCSVから読み込みます。
-
-- `data/sales_strategy.csv`
-- `data/fiscal_period.csv`
-- `data/sales_target.csv`
-- `data/skill.csv`
-- `data/employee.csv`
-- `data/employee_skill.csv`
-- `data/career_goal.csv`
-- `data/project.csv`
-- `data/project_required_skill.csv`
-- `data/assignment.csv`
-
-## 出力ファイル
-
-トップページの `ER図とデータを書き出す` から以下を出力します。
-
-- `exports/normalized_state/data/*.csv`
-- `exports/normalized_state/data/*.json`
-- `exports/normalized_state/schema/database_schema.json`
-- `docs/master_data_er.mmd`
-- `docs/master_data_wiki.md`
+- `src/cocom/schema`: Pandera schemas for master and fact tables.
+- `src/cocom/pipeline`: Stateless subpipelines. Each subpipeline owns its
+  pipeline entrypoint and its local business logic.
+- `src/cocom/api`: Stateless FastAPI adapter for the pipeline.
+- `configs`: TOML settings for sample-data generation and opportunity creation.
+- `knowledge`: Past-case knowledge used to derive themes, project scale, roles,
+  and training/OJT policy.
+- `pages`: Streamlit multipage review and validation UI.

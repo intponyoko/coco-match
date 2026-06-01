@@ -1,0 +1,338 @@
+[defaults]
+staffs = 20
+fiscal_months = 24
+staff_career_skills_per_staff = 18
+skill_max_level = 10
+
+[masters]
+departments = ["Engineering", "PMO", "Consulting"]
+staff_titles = [
+  "Associate",
+  "Junior",
+  "Senior",
+  "Manager",
+  "Director",
+  "Partner",
+]
+industries = [
+  "Financial Services",
+  "Manufacturing",
+  "Retail",
+  "Healthcare",
+  "Public Sector",
+]
+solutions = [
+  "CRM Modernization",
+  "Data Warehouse",
+  "ERP Integration",
+  "Cloud Migration",
+  "Analytics Platform",
+]
+
+[accounts]
+"Financial Services" = [
+  { name = "Aozora Trust Bank", segment = "Strategic", revenue_potential = 260_000_000 },
+  { name = "Hikari Securities", segment = "Enterprise", revenue_potential = 180_000_000 },
+  { name = "Shinsei Insurance", segment = "Enterprise", revenue_potential = 150_000_000 },
+  { name = "Midtown Asset Management", segment = "Growth", revenue_potential = 90_000_000 },
+]
+Manufacturing = [
+  { name = "Kanto Precision Works", segment = "Strategic", revenue_potential = 240_000_000 },
+  { name = "Nippon Mobility Parts", segment = "Enterprise", revenue_potential = 190_000_000 },
+  { name = "Tohoku Industrial Systems", segment = "Enterprise", revenue_potential = 140_000_000 },
+  { name = "Setouchi Factory Group", segment = "Growth", revenue_potential = 80_000_000 },
+]
+Retail = [
+  { name = "Sakura Retail Holdings", segment = "Strategic", revenue_potential = 220_000_000 },
+  { name = "Urban Style Market", segment = "Enterprise", revenue_potential = 160_000_000 },
+  { name = "North Mall Group", segment = "Enterprise", revenue_potential = 120_000_000 },
+  { name = "Daily Basket", segment = "Growth", revenue_potential = 70_000_000 },
+]
+Healthcare = [
+  { name = "Mirai Medical Network", segment = "Strategic", revenue_potential = 250_000_000 },
+  { name = "Seiwa Pharma", segment = "Enterprise", revenue_potential = 190_000_000 },
+  { name = "Kobe Care Alliance", segment = "Enterprise", revenue_potential = 130_000_000 },
+  { name = "Wellness Data Lab", segment = "Growth", revenue_potential = 75_000_000 },
+]
+"Public Sector" = [
+  { name = "Central Digital Agency", segment = "Strategic", revenue_potential = 280_000_000 },
+  { name = "Kansai Prefecture Office", segment = "Enterprise", revenue_potential = 170_000_000 },
+  { name = "Yokohama Civic Services", segment = "Enterprise", revenue_potential = 120_000_000 },
+  { name = "Regional Infrastructure Bureau", segment = "Growth", revenue_potential = 95_000_000 },
+]
+
+[staff_distribution]
+departments = { Engineering = 45, PMO = 30, Consulting = 25 }
+titles = { Associate = 1, Junior = 1, Senior = 1, Manager = 1, Director = 1, Partner = 1 }
+
+[title_prices]
+Associate = 1_500_000
+Junior = 2_000_000
+Senior = 2_500_000
+Manager = 3_000_000
+Director = 4_000_000
+Partner = 5_000_000
+
+[staff_names]
+family = [
+  "佐藤",
+  "鈴木",
+  "高橋",
+  "田中",
+  "伊藤",
+  "渡辺",
+  "山本",
+  "中村",
+  "小林",
+  "加藤",
+  "吉田",
+  "山田",
+  "佐々木",
+  "山口",
+  "松本",
+  "井上",
+  "木村",
+  "林",
+  "斎藤",
+  "清水",
+]
+given = [
+  "大翔",
+  "蓮",
+  "陽翔",
+  "湊",
+  "樹",
+  "悠真",
+  "結翔",
+  "陽太",
+  "朝陽",
+  "律",
+  "陽菜",
+  "凛",
+  "結愛",
+  "芽依",
+  "紬",
+  "莉子",
+  "葵",
+  "澪",
+  "結菜",
+  "美月",
+]
+
+[skills]
+Sales = [
+  "Account Planning",
+  "Enterprise Sales",
+  "Pipeline Management",
+  "Negotiation",
+  "Proposal Writing",
+  "Customer Discovery",
+  "CRM Operation",
+  "Forecasting",
+  "Partner Sales",
+  "Renewal Management",
+]
+Engineering = [
+  "Cloud Architecture",
+  "Backend Development",
+  "Frontend Development",
+  "Data Engineering",
+  "DevOps",
+  "Security Engineering",
+  "API Design",
+  "Database Design",
+  "Performance Tuning",
+  "Test Automation",
+]
+PMO = [
+  "Project Planning",
+  "Risk Management",
+  "Issue Management",
+  "Resource Planning",
+  "Stakeholder Management",
+  "Budget Control",
+  "Schedule Management",
+  "Quality Management",
+  "Vendor Management",
+  "Steering Committee Facilitation",
+]
+Consulting = [
+  "Business Analysis",
+  "Process Design",
+  "Requirements Definition",
+  "Change Management",
+  "Workshop Facilitation",
+  "Operating Model Design",
+  "KPI Design",
+  "Market Research",
+  "Executive Presentation",
+  "Solution Design",
+]
+Operations = [
+  "Service Desk",
+  "Incident Management",
+  "Problem Management",
+  "Release Management",
+  "Capacity Planning",
+  "Monitoring",
+  "SLA Management",
+  "Runbook Design",
+  "Cost Optimization",
+  "Operational Reporting",
+]
+Management = [
+  "People Management",
+  "Coaching",
+  "Performance Review",
+  "Hiring",
+  "Delegation",
+  "Conflict Resolution",
+  "Strategic Planning",
+  "Executive Communication",
+  "Decision Making",
+  "Organizational Design",
+]
+
+[management]
+staff_title_threshold = "Manager"
+title_management_skills = [
+  "SKL-MAN-01",
+  "SKL-MAN-02",
+  "SKL-MAN-07",
+  "SKL-MAN-08",
+]
+
+[role_skill_generation]
+required_limit_per_role = 2
+
+[staff_skill_coverage]
+min_candidates_per_role = 3
+min_training_candidates_per_role = 3
+minimum_title_role_coverage = { Associate = 1 }
+
+[career_simulation]
+yearly_skill_events_min = 3
+yearly_skill_events_max = 5
+target_growth_events_min = 2
+target_growth_events_max = 3
+career_years_by_title = { Associate = 1, Junior = 3, Senior = 6, Manager = 9, Director = 12, Partner = 15 }
+title_level_caps = { Associate = 3, Junior = 4, Senior = 5, Manager = 7, Director = 9, Partner = 10 }
+role_coverage_by_title = { Associate = 1, Junior = 1, Senior = 1, Manager = 2, Director = 3, Partner = 4 }
+title_min_total_skill_level = { Associate = 6, Junior = 14, Senior = 28, Manager = 45, Director = 65, Partner = 85 }
+title_min_management_skill_level = { Associate = 0, Junior = 0, Senior = 0, Manager = 2, Director = 4, Partner = 6 }
+
+[sales_plan_generation]
+sales_plan_months = 12
+active_industries_per_period_min = 4
+active_industries_per_period_max = 5
+annual_target_revenue = 350_000_000
+period_growth_weight = 0.01
+industry_weight_step = 0.08
+seasonal_industry_weight_step = 0.04
+monthly_demand_weight = { 1 = 0.8, 2 = 0.9, 3 = 1.35, 4 = 1.2, 5 = 0.9, 6 = 1.0, 7 = 1.1, 8 = 0.75, 9 = 1.25, 10 = 1.15, 11 = 1.0, 12 = 1.3 }
+industry_demand_weight = { "Financial Services" = 1.35, Manufacturing = 1.25, Retail = 0.85, Healthcare = 0.9, "Public Sector" = 0.8 }
+
+[roles]
+Engineering = [
+  "Software Engineer",
+  "Data Engineer",
+  "Cloud Engineer",
+  "Technical Architect",
+  "Engineering Support Analyst",
+]
+PMO = [
+  "Project Coordinator",
+  "Project Manager",
+  "Delivery Governance Specialist",
+  "Service Transition Manager",
+]
+Consulting = [
+  "Solution Consultant",
+  "Business Consultant",
+  "Change Consultant",
+  "Growth Consultant",
+  "Consulting Analyst",
+]
+
+[role_skills]
+"ROLE-ENG-01" = [
+  { skill = "SKL-ENG-02", level = 4, required = true },
+  { skill = "SKL-ENG-07", level = 4, required = true },
+  { skill = "SKL-ENG-03", level = 3, required = false },
+  { skill = "SKL-ENG-10", level = 3, required = false },
+]
+"ROLE-ENG-02" = [
+  { skill = "SKL-ENG-04", level = 4, required = true },
+  { skill = "SKL-ENG-08", level = 4, required = true },
+  { skill = "SKL-ENG-01", level = 3, required = false },
+  { skill = "SKL-ENG-09", level = 3, required = false },
+]
+"ROLE-ENG-03" = [
+  { skill = "SKL-ENG-01", level = 5, required = true },
+  { skill = "SKL-ENG-05", level = 4, required = true },
+  { skill = "SKL-ENG-06", level = 4, required = false },
+  { skill = "SKL-ENG-09", level = 3, required = false },
+]
+"ROLE-ENG-04" = [
+  { skill = "SKL-ENG-01", level = 6, required = true },
+  { skill = "SKL-ENG-07", level = 5, required = true },
+  { skill = "SKL-ENG-05", level = 4, required = false },
+  { skill = "SKL-ENG-08", level = 4, required = false },
+]
+"ROLE-ENG-05" = [
+  { skill = "SKL-ENG-02", level = 3, required = true },
+  { skill = "SKL-ENG-03", level = 3, required = true },
+  { skill = "SKL-ENG-10", level = 2, required = false },
+]
+"ROLE-PMO-01" = [
+  { skill = "SKL-PMO-01", level = 3, required = true },
+  { skill = "SKL-PMO-07", level = 3, required = true },
+  { skill = "SKL-PMO-03", level = 2, required = false },
+]
+"ROLE-PMO-02" = [
+  { skill = "SKL-PMO-01", level = 5, required = true },
+  { skill = "SKL-PMO-02", level = 4, required = true },
+  { skill = "SKL-PMO-05", level = 4, required = false },
+  { skill = "SKL-PMO-06", level = 4, required = false },
+]
+"ROLE-PMO-03" = [
+  { skill = "SKL-PMO-05", level = 4, required = true },
+  { skill = "SKL-PMO-10", level = 4, required = true },
+  { skill = "SKL-PMO-02", level = 3, required = false },
+  { skill = "SKL-PMO-04", level = 3, required = false },
+]
+"ROLE-PMO-04" = [
+  { skill = "SKL-PMO-03", level = 4, required = true },
+  { skill = "SKL-PMO-04", level = 4, required = true },
+  { skill = "SKL-PMO-06", level = 3, required = false },
+  { skill = "SKL-PMO-08", level = 3, required = false },
+]
+"ROLE-CON-01" = [
+  { skill = "SKL-CON-10", level = 5, required = true },
+  { skill = "SKL-CON-03", level = 4, required = true },
+  { skill = "SKL-CON-01", level = 4, required = false },
+  { skill = "SKL-CON-09", level = 3, required = false },
+]
+"ROLE-CON-02" = [
+  { skill = "SKL-CON-01", level = 4, required = true },
+  { skill = "SKL-CON-02", level = 4, required = true },
+  { skill = "SKL-CON-04", level = 3, required = false },
+  { skill = "SKL-CON-05", level = 3, required = false },
+]
+"ROLE-CON-03" = [
+  { skill = "SKL-CON-04", level = 4, required = true },
+  { skill = "SKL-CON-05", level = 4, required = true },
+  { skill = "SKL-CON-06", level = 3, required = false },
+  { skill = "SKL-CON-09", level = 3, required = false },
+]
+"ROLE-CON-04" = [
+  { skill = "SKL-CON-02", level = 4, required = true },
+  { skill = "SKL-CON-09", level = 4, required = true },
+  { skill = "SKL-CON-01", level = 3, required = false },
+  { skill = "SKL-CON-06", level = 3, required = false },
+]
+"ROLE-CON-05" = [
+  { skill = "SKL-CON-01", level = 3, required = true },
+  { skill = "SKL-CON-04", level = 3, required = true },
+  { skill = "SKL-CON-05", level = 2, required = false },
+]

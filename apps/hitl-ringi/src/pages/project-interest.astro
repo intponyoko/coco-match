@@ -1,0 +1,13 @@
+---
+import AppShell from "../components/AppShell.astro";
+import PageHeader from "../components/PageHeader.astro";
+import ProjectInterestScreen from "../features/projectInterest/ProjectInterestScreen";
+---
+
+<AppShell>
+  <PageHeader
+    title="4. Personal Interest"
+    description="担当: 個人層。参加したいPJ、学習意図、キャリア上の希望を表明します。"
+  />
+  <ProjectInterestScreen client:load />
+</AppShell>

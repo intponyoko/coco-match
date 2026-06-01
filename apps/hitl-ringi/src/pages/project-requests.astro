@@ -1,0 +1,13 @@
+---
+import AppShell from "../components/AppShell.astro";
+import PageHeader from "../components/PageHeader.astro";
+import OpportunityRequestsScreen from "../features/opportunityRequest/OpportunityRequestsScreen";
+---
+
+<AppShell>
+  <PageHeader
+    title="3. Project / Request Approval"
+    description="担当: 部署層。Account、PJ規模、Role別Requestを確認し、必要に応じて編集して承認します。"
+  />
+  <OpportunityRequestsScreen client:load initialTab="scale" fixedTab={true} />
+</AppShell>

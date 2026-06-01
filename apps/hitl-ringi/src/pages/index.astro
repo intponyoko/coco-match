@@ -1,0 +1,13 @@
+---
+import AppShell from "../components/AppShell.astro";
+import PageHeader from "../components/PageHeader.astro";
+import HomeDashboard from "../features/workflow/HomeDashboard";
+---
+
+<AppShell>
+  <PageHeader
+    title="Home / Workflow Inbox"
+    description="承認待ち、全体進捗、現在の予想Matching結果を確認します。"
+  />
+  <HomeDashboard client:load />
+</AppShell>

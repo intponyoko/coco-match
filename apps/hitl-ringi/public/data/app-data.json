@@ -1,0 +1,4316 @@
+{
+  "generatedAt": "2026-05-31T07:50:55.526728+00:00",
+  "sample": {
+    "sales_plans": [
+      {
+        "code": "SP-2026-01-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-01-01",
+        "target_revenue": 4841570
+      },
+      {
+        "code": "SP-2026-01-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-01-01",
+        "target_revenue": 5043302
+      },
+      {
+        "code": "SP-2026-01-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-01-01",
+        "target_revenue": 3810495
+      },
+      {
+        "code": "SP-2026-01-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-01-01",
+        "target_revenue": 4438105
+      },
+      {
+        "code": "SP-2026-02-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-02-01",
+        "target_revenue": 3893849
+      },
+      {
+        "code": "SP-2026-02-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-02-01",
+        "target_revenue": 3971600
+      },
+      {
+        "code": "SP-2026-02-01-IND-005",
+        "industry_code": "IND-005",
+        "period_code": "2026-02-01",
+        "target_revenue": 3933775
+      },
+      {
+        "code": "SP-2026-02-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-02-01",
+        "target_revenue": 7092143
+      },
+      {
+        "code": "SP-2026-02-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-02-01",
+        "target_revenue": 7197212
+      },
+      {
+        "code": "SP-2026-03-01-IND-005",
+        "industry_code": "IND-005",
+        "period_code": "2026-03-01",
+        "target_revenue": 5345900
+      },
+      {
+        "code": "SP-2026-03-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-03-01",
+        "target_revenue": 9702052
+      },
+      {
+        "code": "SP-2026-03-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-03-01",
+        "target_revenue": 9929000
+      },
+      {
+        "code": "SP-2026-03-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-03-01",
+        "target_revenue": 6537380
+      },
+      {
+        "code": "SP-2026-03-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-03-01",
+        "target_revenue": 7602777
+      },
+      {
+        "code": "SP-2026-04-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-04-01",
+        "target_revenue": 6934540
+      },
+      {
+        "code": "SP-2026-04-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-04-01",
+        "target_revenue": 5287061
+      },
+      {
+        "code": "SP-2026-04-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-04-01",
+        "target_revenue": 6203261
+      },
+      {
+        "code": "SP-2026-04-01-IND-005",
+        "industry_code": "IND-005",
+        "period_code": "2026-04-01",
+        "target_revenue": 6051962
+      },
+      {
+        "code": "SP-2026-04-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-04-01",
+        "target_revenue": 10817882
+      },
+      {
+        "code": "SP-2026-05-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-05-01",
+        "target_revenue": 4236373
+      },
+      {
+        "code": "SP-2026-05-01-IND-005",
+        "industry_code": "IND-005",
+        "period_code": "2026-05-01",
+        "target_revenue": 3631177
+      },
+      {
+        "code": "SP-2026-05-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-05-01",
+        "target_revenue": 6581509
+      },
+      {
+        "code": "SP-2026-05-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-05-01",
+        "target_revenue": 6724402
+      },
+      {
+        "code": "SP-2026-06-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-06-01",
+        "target_revenue": 6619333
+      },
+      {
+        "code": "SP-2026-06-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-06-01",
+        "target_revenue": 6829471
+      },
+      {
+        "code": "SP-2026-06-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-06-01",
+        "target_revenue": 5120352
+      },
+      {
+        "code": "SP-2026-06-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-06-01",
+        "target_revenue": 5253439
+      },
+      {
+        "code": "SP-2026-06-01-IND-005",
+        "industry_code": "IND-005",
+        "period_code": "2026-06-01",
+        "target_revenue": 5118017
+      },
+      {
+        "code": "SP-2026-07-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-07-01",
+        "target_revenue": 4453516
+      },
+      {
+        "code": "SP-2026-07-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-07-01",
+        "target_revenue": 5270250
+      },
+      {
+        "code": "SP-2026-07-01-IND-005",
+        "industry_code": "IND-005",
+        "period_code": "2026-07-01",
+        "target_revenue": 5177790
+      },
+      {
+        "code": "SP-2026-07-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-07-01",
+        "target_revenue": 9292283
+      },
+      {
+        "code": "SP-2026-08-01-IND-005",
+        "industry_code": "IND-005",
+        "period_code": "2026-08-01",
+        "target_revenue": 3222109
+      },
+      {
+        "code": "SP-2026-08-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-08-01",
+        "target_revenue": 5815557
+      },
+      {
+        "code": "SP-2026-08-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-08-01",
+        "target_revenue": 5209661
+      },
+      {
+        "code": "SP-2026-08-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-08-01",
+        "target_revenue": 3899803
+      },
+      {
+        "code": "SP-2026-09-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-09-01",
+        "target_revenue": 7880159
+      },
+      {
+        "code": "SP-2026-09-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-09-01",
+        "target_revenue": 5953898
+      },
+      {
+        "code": "SP-2026-09-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-09-01",
+        "target_revenue": 6934540
+      },
+      {
+        "code": "SP-2026-09-01-IND-005",
+        "industry_code": "IND-005",
+        "period_code": "2026-09-01",
+        "target_revenue": 5977246
+      },
+      {
+        "code": "SP-2026-09-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-09-01",
+        "target_revenue": 10717016
+      },
+      {
+        "code": "SP-2026-10-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-10-01",
+        "target_revenue": 5074822
+      },
+      {
+        "code": "SP-2026-10-01-IND-005",
+        "industry_code": "IND-005",
+        "period_code": "2026-10-01",
+        "target_revenue": 5026491
+      },
+      {
+        "code": "SP-2026-10-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-10-01",
+        "target_revenue": 9062183
+      },
+      {
+        "code": "SP-2026-10-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-10-01",
+        "target_revenue": 9196437
+      },
+      {
+        "code": "SP-2026-10-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-10-01",
+        "target_revenue": 6801336
+      },
+      {
+        "code": "SP-2026-11-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-11-01",
+        "target_revenue": 7186705
+      },
+      {
+        "code": "SP-2026-11-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-11-01",
+        "target_revenue": 7354815
+      },
+      {
+        "code": "SP-2026-11-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-11-01",
+        "target_revenue": 4842504
+      },
+      {
+        "code": "SP-2026-11-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-11-01",
+        "target_revenue": 5631687
+      },
+      {
+        "code": "SP-2026-12-01-IND-003",
+        "industry_code": "IND-003",
+        "period_code": "2026-12-01",
+        "target_revenue": 5727650
+      },
+      {
+        "code": "SP-2026-12-01-IND-004",
+        "industry_code": "IND-004",
+        "period_code": "2026-12-01",
+        "target_revenue": 6720200
+      },
+      {
+        "code": "SP-2026-12-01-IND-005",
+        "industry_code": "IND-005",
+        "period_code": "2026-12-01",
+        "target_revenue": 6556292
+      },
+      {
+        "code": "SP-2026-12-01-IND-001",
+        "industry_code": "IND-001",
+        "period_code": "2026-12-01",
+        "target_revenue": 11719372
+      },
+      {
+        "code": "SP-2026-12-01-IND-002",
+        "industry_code": "IND-002",
+        "period_code": "2026-12-01",
+        "target_revenue": 10547739
+      }
+    ],
+    "staffs": [
+      {
+        "code": "STF-001",
+        "name": "佐藤 大翔",
+        "department_code": "DEP-001",
+        "title_code": "TITLE-001"
+      },
+      {
+        "code": "STF-010",
+        "name": "加藤 律",
+        "department_code": "DEP-003",
+        "title_code": "TITLE-002"
+      },
+      {
+        "code": "STF-019",
+        "name": "斎藤 結菜",
+        "department_code": "DEP-002",
+        "title_code": "TITLE-006"
+      },
+      {
+        "code": "STF-008",
+        "name": "中村 陽太",
+        "department_code": "DEP-002",
+        "title_code": "TITLE-003"
+      },
+      {
+        "code": "STF-017",
+        "name": "木村 葵",
+        "department_code": "DEP-001",
+        "title_code": "TITLE-004"
+      },
+      {
+        "code": "STF-006",
+        "name": "渡辺 悠真",
+        "department_code": "DEP-001",
+        "title_code": "TITLE-002"
+      },
+      {
+        "code": "STF-015",
+        "name": "松本 紬",
+        "department_code": "DEP-001",
+        "title_code": "TITLE-003"
+      },
+      {
+        "code": "STF-004",
+        "name": "田中 湊",
+        "department_code": "DEP-003",
+        "title_code": "TITLE-001"
+      },
+      {
+        "code": "STF-013",
+        "name": "佐々木 結愛",
+        "department_code": "DEP-003",
+        "title_code": "TITLE-005"
+      },
+      {
+        "code": "STF-002",
+        "name": "鈴木 蓮",
+        "department_code": "DEP-002",
+        "title_code": "TITLE-001"
+      },
+      {
+        "code": "STF-011",
+        "name": "吉田 陽菜",
+        "department_code": "DEP-002",
+        "title_code": "TITLE-004"
+      },
+      {
+        "code": "STF-020",
+        "name": "清水 美月",
+        "department_code": "DEP-001",
+        "title_code": "TITLE-006"
+      },
+      {
+        "code": "STF-009",
+        "name": "小林 朝陽",
+        "department_code": "DEP-001",
+        "title_code": "TITLE-002"
+      },
+      {
+        "code": "STF-018",
+        "name": "林 澪",
+        "department_code": "DEP-001",
+        "title_code": "TITLE-005"
+      },
+      {
+        "code": "STF-007",
+        "name": "山本 結翔",
+        "department_code": "DEP-003",
+        "title_code": "TITLE-004"
+      },
+      {
+        "code": "STF-016",
+        "name": "井上 莉子",
+        "department_code": "DEP-003",
+        "title_code": "TITLE-003"
+      },
+      {
+        "code": "STF-005",
+        "name": "伊藤 樹",
+        "department_code": "DEP-002",
+        "title_code": "TITLE-002"
+      },
+      {
+        "code": "STF-014",
+        "name": "山口 芽依",
+        "department_code": "DEP-002",
+        "title_code": "TITLE-005"
+      },
+      {
+        "code": "STF-003",
+        "name": "高橋 陽翔",
+        "department_code": "DEP-001",
+        "title_code": "TITLE-001"
+      },
+      {
+        "code": "STF-012",
+        "name": "山田 凛",
+        "department_code": "DEP-001",
+        "title_code": "TITLE-003"
+      }
+    ],
+    "titles": [
+      {
+        "code": "TITLE-001",
+        "name": "Associate",
+        "price": 1500000
+      },
+      {
+        "code": "TITLE-002",
+        "name": "Junior",
+        "price": 2000000
+      },
+      {
+        "code": "TITLE-003",
+        "name": "Senior",
+        "price": 2500000
+      },
+      {
+        "code": "TITLE-004",
+        "name": "Manager",
+        "price": 3000000
+      },
+      {
+        "code": "TITLE-005",
+        "name": "Director",
+        "price": 4000000
+      },
+      {
+        "code": "TITLE-006",
+        "name": "Partner",
+        "price": 5000000
+      }
+    ],
+    "departments": [
+      {
+        "code": "DEP-001",
+        "name": "Engineering"
+      },
+      {
+        "code": "DEP-002",
+        "name": "PMO"
+      },
+      {
+        "code": "DEP-003",
+        "name": "Consulting"
+      }
+    ],
+    "roles": [
+      {
+        "code": "ROLE-ENG-01",
+        "name": "Software Engineer"
+      },
+      {
+        "code": "ROLE-ENG-02",
+        "name": "Data Engineer"
+      },
+      {
+        "code": "ROLE-ENG-03",
+        "name": "Cloud Engineer"
+      },
+      {
+        "code": "ROLE-ENG-04",
+        "name": "Technical Architect"
+      },
+      {
+        "code": "ROLE-ENG-05",
+        "name": "Engineering Support Analyst"
+      },
+      {
+        "code": "ROLE-PMO-01",
+        "name": "Project Coordinator"
+      },
+      {
+        "code": "ROLE-PMO-02",
+        "name": "Project Manager"
+      },
+      {
+        "code": "ROLE-PMO-03",
+        "name": "Delivery Governance Specialist"
+      },
+      {
+        "code": "ROLE-PMO-04",
+        "name": "Service Transition Manager"
+      },
+      {
+        "code": "ROLE-CON-01",
+        "name": "Solution Consultant"
+      },
+      {
+        "code": "ROLE-CON-02",
+        "name": "Business Consultant"
+      },
+      {
+        "code": "ROLE-CON-03",
+        "name": "Change Consultant"
+      },
+      {
+        "code": "ROLE-CON-04",
+        "name": "Growth Consultant"
+      },
+      {
+        "code": "ROLE-CON-05",
+        "name": "Consulting Analyst"
+      }
+    ],
+    "role_skills": [
+      {
+        "role_code": "ROLE-ENG-01",
+        "skill_code": "SKL-ENG-02",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-ENG-01",
+        "skill_code": "SKL-ENG-07",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-ENG-01",
+        "skill_code": "SKL-ENG-03",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-ENG-01",
+        "skill_code": "SKL-ENG-10",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-ENG-02",
+        "skill_code": "SKL-ENG-04",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-ENG-02",
+        "skill_code": "SKL-ENG-08",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-ENG-02",
+        "skill_code": "SKL-ENG-01",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-ENG-02",
+        "skill_code": "SKL-ENG-09",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-ENG-03",
+        "skill_code": "SKL-ENG-01",
+        "skill_level": 5,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-ENG-03",
+        "skill_code": "SKL-ENG-05",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-ENG-03",
+        "skill_code": "SKL-ENG-06",
+        "skill_level": 4,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-ENG-03",
+        "skill_code": "SKL-ENG-09",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-ENG-04",
+        "skill_code": "SKL-ENG-01",
+        "skill_level": 6,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-ENG-04",
+        "skill_code": "SKL-ENG-07",
+        "skill_level": 5,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-ENG-04",
+        "skill_code": "SKL-ENG-05",
+        "skill_level": 4,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-ENG-04",
+        "skill_code": "SKL-ENG-08",
+        "skill_level": 4,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-ENG-05",
+        "skill_code": "SKL-ENG-02",
+        "skill_level": 3,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-ENG-05",
+        "skill_code": "SKL-ENG-03",
+        "skill_level": 3,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-ENG-05",
+        "skill_code": "SKL-ENG-10",
+        "skill_level": 2,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-PMO-01",
+        "skill_code": "SKL-PMO-01",
+        "skill_level": 3,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-PMO-01",
+        "skill_code": "SKL-PMO-07",
+        "skill_level": 3,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-PMO-01",
+        "skill_code": "SKL-PMO-03",
+        "skill_level": 2,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-PMO-02",
+        "skill_code": "SKL-PMO-01",
+        "skill_level": 5,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-PMO-02",
+        "skill_code": "SKL-PMO-02",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-PMO-02",
+        "skill_code": "SKL-PMO-05",
+        "skill_level": 4,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-PMO-02",
+        "skill_code": "SKL-PMO-06",
+        "skill_level": 4,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-PMO-03",
+        "skill_code": "SKL-PMO-05",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-PMO-03",
+        "skill_code": "SKL-PMO-10",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-PMO-03",
+        "skill_code": "SKL-PMO-02",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-PMO-03",
+        "skill_code": "SKL-PMO-04",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-PMO-04",
+        "skill_code": "SKL-PMO-03",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-PMO-04",
+        "skill_code": "SKL-PMO-04",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-PMO-04",
+        "skill_code": "SKL-PMO-06",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-PMO-04",
+        "skill_code": "SKL-PMO-08",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-CON-01",
+        "skill_code": "SKL-CON-10",
+        "skill_level": 5,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-CON-01",
+        "skill_code": "SKL-CON-03",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-CON-01",
+        "skill_code": "SKL-CON-01",
+        "skill_level": 4,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-CON-01",
+        "skill_code": "SKL-CON-09",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-CON-02",
+        "skill_code": "SKL-CON-01",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-CON-02",
+        "skill_code": "SKL-CON-02",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-CON-02",
+        "skill_code": "SKL-CON-04",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-CON-02",
+        "skill_code": "SKL-CON-05",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-CON-03",
+        "skill_code": "SKL-CON-04",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-CON-03",
+        "skill_code": "SKL-CON-05",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-CON-03",
+        "skill_code": "SKL-CON-06",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-CON-03",
+        "skill_code": "SKL-CON-09",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-CON-04",
+        "skill_code": "SKL-CON-02",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-CON-04",
+        "skill_code": "SKL-CON-09",
+        "skill_level": 4,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-CON-04",
+        "skill_code": "SKL-CON-01",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-CON-04",
+        "skill_code": "SKL-CON-06",
+        "skill_level": 3,
+        "required": false
+      },
+      {
+        "role_code": "ROLE-CON-05",
+        "skill_code": "SKL-CON-01",
+        "skill_level": 3,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-CON-05",
+        "skill_code": "SKL-CON-04",
+        "skill_level": 3,
+        "required": true
+      },
+      {
+        "role_code": "ROLE-CON-05",
+        "skill_code": "SKL-CON-05",
+        "skill_level": 2,
+        "required": false
+      }
+    ],
+    "staff_career": [
+      {
+        "staff_code": "STF-001",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-001",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-001",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-001",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "10"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "10"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "8",
+        "skill_level_target": "8"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "8",
+        "skill_level_target": "8"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "0",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-004",
+        "skill_code": "SKL-CON-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-004",
+        "skill_code": "SKL-CON-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-004",
+        "skill_code": "SKL-CON-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "8",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "8"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "8"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-009",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-009",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-009",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-009",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-009",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-009",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "8",
+        "skill_level_target": "8"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-003",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-003",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-003",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-003",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-003",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-001",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-001",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-001",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "10",
+        "skill_level_target": "10"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "10",
+        "skill_level_target": "10"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-019",
+        "skill_code": "SKL-PMO-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-008",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-017",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "0",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-004",
+        "skill_code": "SKL-CON-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-004",
+        "skill_code": "SKL-CON-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-004",
+        "skill_code": "SKL-CON-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-004",
+        "skill_code": "SKL-CON-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "8"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "8"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "8"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-013",
+        "skill_code": "SKL-CON-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-011",
+        "skill_code": "SKL-PMO-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "8"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "7",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-020",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-009",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-009",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-009",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-009",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "8",
+        "skill_level_target": "8"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-018",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-CON-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-007",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-016",
+        "skill_code": "SKL-CON-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-005",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "9",
+        "skill_level_target": "9"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "7"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-MAN-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-MAN-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-MAN-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-MAN-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-014",
+        "skill_code": "SKL-PMO-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-003",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-003",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-003",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-003",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "1"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-05",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-06",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-09",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-02",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "1",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-08",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-012",
+        "skill_code": "SKL-ENG-10",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "2",
+        "skill_level_target": "2"
+      },
+      {
+        "staff_code": "STF-010",
+        "skill_code": "SKL-CON-02",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "4",
+        "skill_level_target": "4"
+      },
+      {
+        "staff_code": "STF-015",
+        "skill_code": "SKL-ENG-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "6",
+        "skill_level_target": "6"
+      },
+      {
+        "staff_code": "STF-006",
+        "skill_code": "SKL-ENG-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "5",
+        "skill_level_target": "5"
+      },
+      {
+        "staff_code": "STF-004",
+        "skill_code": "SKL-CON-04",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-004",
+        "skill_code": "SKL-CON-04",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-01",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2026-01-01",
+        "end_period_code": "2026-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-002",
+        "skill_code": "SKL-PMO-07",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      },
+      {
+        "staff_code": "STF-003",
+        "skill_code": "SKL-ENG-03",
+        "start_period_code": "2027-01-01",
+        "end_period_code": "2027-12-01",
+        "skill_level_current": "3",
+        "skill_level_target": "3"
+      }
+    ],
+    "accounts": [
+      {
+        "code": "ACC-001-01",
+        "name": "Aozora Trust Bank",
+        "industry_code": "IND-001",
+        "segment": "Strategic",
+        "revenue_potential": "260000000"
+      },
+      {
+        "code": "ACC-001-02",
+        "name": "Hikari Securities",
+        "industry_code": "IND-001",
+        "segment": "Enterprise",
+        "revenue_potential": "180000000"
+      },
+      {
+        "code": "ACC-001-03",
+        "name": "Shinsei Insurance",
+        "industry_code": "IND-001",
+        "segment": "Enterprise",
+        "revenue_potential": "150000000"
+      },
+      {
+        "code": "ACC-001-04",
+        "name": "Midtown Asset Management",
+        "industry_code": "IND-001",
+        "segment": "Growth",
+        "revenue_potential": "90000000"
+      },
+      {
+        "code": "ACC-002-01",
+        "name": "Kanto Precision Works",
+        "industry_code": "IND-002",
+        "segment": "Strategic",
+        "revenue_potential": "240000000"
+      },
+      {
+        "code": "ACC-002-02",
+        "name": "Nippon Mobility Parts",
+        "industry_code": "IND-002",
+        "segment": "Enterprise",
+        "revenue_potential": "190000000"
+      },
+      {
+        "code": "ACC-002-03",
+        "name": "Tohoku Industrial Systems",
+        "industry_code": "IND-002",
+        "segment": "Enterprise",
+        "revenue_potential": "140000000"
+      },
+      {
+        "code": "ACC-002-04",
+        "name": "Setouchi Factory Group",
+        "industry_code": "IND-002",
+        "segment": "Growth",
+        "revenue_potential": "80000000"
+      },
+      {
+        "code": "ACC-003-01",
+        "name": "Sakura Retail Holdings",
+        "industry_code": "IND-003",
+        "segment": "Strategic",
+        "revenue_potential": "220000000"
+      },
+      {
+        "code": "ACC-003-02",
+        "name": "Urban Style Market",
+        "industry_code": "IND-003",
+        "segment": "Enterprise",
+        "revenue_potential": "160000000"
+      },
+      {
+        "code": "ACC-003-03",
+        "name": "North Mall Group",
+        "industry_code": "IND-003",
+        "segment": "Enterprise",
+        "revenue_potential": "120000000"
+      },
+      {
+        "code": "ACC-003-04",
+        "name": "Daily Basket",
+        "industry_code": "IND-003",
+        "segment": "Growth",
+        "revenue_potential": "70000000"
+      },
+      {
+        "code": "ACC-004-01",
+        "name": "Mirai Medical Network",
+        "industry_code": "IND-004",
+        "segment": "Strategic",
+        "revenue_potential": "250000000"
+      },
+      {
+        "code": "ACC-004-02",
+        "name": "Seiwa Pharma",
+        "industry_code": "IND-004",
+        "segment": "Enterprise",
+        "revenue_potential": "190000000"
+      },
+      {
+        "code": "ACC-004-03",
+        "name": "Kobe Care Alliance",
+        "industry_code": "IND-004",
+        "segment": "Enterprise",
+        "revenue_potential": "130000000"
+      },
+      {
+        "code": "ACC-004-04",
+        "name": "Wellness Data Lab",
+        "industry_code": "IND-004",
+        "segment": "Growth",
+        "revenue_potential": "75000000"
+      },
+      {
+        "code": "ACC-005-01",
+        "name": "Central Digital Agency",
+        "industry_code": "IND-005",
+        "segment": "Strategic",
+        "revenue_potential": "280000000"
+      },
+      {
+        "code": "ACC-005-02",
+        "name": "Kansai Prefecture Office",
+        "industry_code": "IND-005",
+        "segment": "Enterprise",
+        "revenue_potential": "170000000"
+      },
+      {
+        "code": "ACC-005-03",
+        "name": "Yokohama Civic Services",
+        "industry_code": "IND-005",
+        "segment": "Enterprise",
+        "revenue_potential": "120000000"
+      },
+      {
+        "code": "ACC-005-04",
+        "name": "Regional Infrastructure Bureau",
+        "industry_code": "IND-005",
+        "segment": "Growth",
+        "revenue_potential": "95000000"
+      }
+    ],
+    "industries": [
+      {
+        "code": "IND-001",
+        "name": "Financial Services"
+      },
+      {
+        "code": "IND-002",
+        "name": "Manufacturing"
+      },
+      {
+        "code": "IND-003",
+        "name": "Retail"
+      },
+      {
+        "code": "IND-004",
+        "name": "Healthcare"
+      },
+      {
+        "code": "IND-005",
+        "name": "Public Sector"
+      }
+    ],
+    "solutions": [
+      {
+        "code": "SOL-001",
+        "name": "CRM Modernization"
+      },
+      {
+        "code": "SOL-002",
+        "name": "Data Warehouse"
+      },
+      {
+        "code": "SOL-003",
+        "name": "ERP Integration"
+      },
+      {
+        "code": "SOL-004",
+        "name": "Cloud Migration"
+      },
+      {
+        "code": "SOL-005",
+        "name": "Analytics Platform"
+      }
+    ],
+    "skills": [
+      {
+        "code": "SKL-ENG-01",
+        "name": "Cloud Architecture",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-ENG-02",
+        "name": "Backend Development",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-ENG-03",
+        "name": "Frontend Development",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-ENG-04",
+        "name": "Data Engineering",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-ENG-05",
+        "name": "DevOps",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-ENG-06",
+        "name": "Security Engineering",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-ENG-07",
+        "name": "API Design",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-ENG-08",
+        "name": "Database Design",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-ENG-09",
+        "name": "Performance Tuning",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-ENG-10",
+        "name": "Test Automation",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-PMO-01",
+        "name": "Project Planning",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-PMO-02",
+        "name": "Risk Management",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-PMO-03",
+        "name": "Issue Management",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-PMO-04",
+        "name": "Resource Planning",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-PMO-05",
+        "name": "Stakeholder Management",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-PMO-06",
+        "name": "Budget Control",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-PMO-07",
+        "name": "Schedule Management",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-PMO-08",
+        "name": "Quality Management",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-PMO-10",
+        "name": "Steering Committee Facilitation",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-CON-01",
+        "name": "Business Analysis",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-CON-02",
+        "name": "Process Design",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-CON-03",
+        "name": "Requirements Definition",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-CON-04",
+        "name": "Change Management",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-CON-05",
+        "name": "Workshop Facilitation",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-CON-06",
+        "name": "Operating Model Design",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-CON-09",
+        "name": "Executive Presentation",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-CON-10",
+        "name": "Solution Design",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-MAN-01",
+        "name": "People Management",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-MAN-02",
+        "name": "Coaching",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-MAN-07",
+        "name": "Strategic Planning",
+        "max_level": 10
+      },
+      {
+        "code": "SKL-MAN-08",
+        "name": "Executive Communication",
+        "max_level": 10
+      }
+    ],
+    "fiscal_periods": [
+      {
+        "code": "2026-01-01",
+        "start": "2026-01-01",
+        "end": "2026-01-31"
+      },
+      {
+        "code": "2026-02-01",
+        "start": "2026-02-01",
+        "end": "2026-02-28"
+      },
+      {
+        "code": "2026-03-01",
+        "start": "2026-03-01",
+        "end": "2026-03-31"
+      },
+      {
+        "code": "2026-04-01",
+        "start": "2026-04-01",
+        "end": "2026-04-30"
+      },
+      {
+        "code": "2026-05-01",
+        "start": "2026-05-01",
+        "end": "2026-05-31"
+      },
+      {
+        "code": "2026-06-01",
+        "start": "2026-06-01",
+        "end": "2026-06-30"
+      },
+      {
+        "code": "2026-07-01",
+        "start": "2026-07-01",
+        "end": "2026-07-31"
+      },
+      {
+        "code": "2026-08-01",
+        "start": "2026-08-01",
+        "end": "2026-08-31"
+      },
+      {
+        "code": "2026-09-01",
+        "start": "2026-09-01",
+        "end": "2026-09-30"
+      },
+      {
+        "code": "2026-10-01",
+        "start": "2026-10-01",
+        "end": "2026-10-31"
+      },
+      {
+        "code": "2026-11-01",
+        "start": "2026-11-01",
+        "end": "2026-11-30"
+      },
+      {
+        "code": "2026-12-01",
+        "start": "2026-12-01",
+        "end": "2026-12-31"
+      },
+      {
+        "code": "2027-01-01",
+        "start": "2027-01-01",
+        "end": "2027-01-31"
+      },
+      {
+        "code": "2027-02-01",
+        "start": "2027-02-01",
+        "end": "2027-02-28"
+      },
+      {
+        "code": "2027-03-01",
+        "start": "2027-03-01",
+        "end": "2027-03-31"
+      },
+      {
+        "code": "2027-04-01",
+        "start": "2027-04-01",
+        "end": "2027-04-30"
+      },
+      {
+        "code": "2027-05-01",
+        "start": "2027-05-01",
+        "end": "2027-05-31"
+      },
+      {
+        "code": "2027-06-01",
+        "start": "2027-06-01",
+        "end": "2027-06-30"
+      },
+      {
+        "code": "2027-07-01",
+        "start": "2027-07-01",
+        "end": "2027-07-31"
+      },
+      {
+        "code": "2027-08-01",
+        "start": "2027-08-01",
+        "end": "2027-08-31"
+      },
+      {
+        "code": "2027-09-01",
+        "start": "2027-09-01",
+        "end": "2027-09-30"
+      },
+      {
+        "code": "2027-10-01",
+        "start": "2027-10-01",
+        "end": "2027-10-31"
+      },
+      {
+        "code": "2027-11-01",
+        "start": "2027-11-01",
+        "end": "2027-11-30"
+      },
+      {
+        "code": "2027-12-01",
+        "start": "2027-12-01",
+        "end": "2027-12-31"
+      }
+    ]
+  },
+  "planning": {
+    "theme_recommendations": [],
+    "project_sizing_recommendations": [],
+    "request_recommendations": [],
+    "opportunities": [],
+    "opportunity_requests": [],
+    "opportunity_assignments": [],
+    "matching_trace": [],
+    "staff_utilization": [],
+    "allocation_trace": [],
+    "knowledge_nodes": [],
+    "knowledge_edges": [],
+    "project_knowledge_nodes": [],
+    "project_knowledge_edges": [],
+    "opportunity_recommendations": [],
+    "account_recommendations": [],
+    "retrieved_evidence_chunks": [],
+    "proposal_runs": [],
+    "proposal_diagnostics": [],
+    "consistency_metrics": [],
+    "project_review_issues": []
+  },
+  "derived": {
+    "workflowSummary": {
+      "salesPlanCount": 55,
+      "themeRecommendationCount": 0,
+      "projectSpecCount": 0,
+      "requestCount": 0,
+      "assignmentCount": 0
+    },
+    "managementAccounting": {
+      "planRevenue": 350000000.0,
+      "opportunityRevenue": 0.0,
+      "matchingRate": 0
+    },
+    "roleDemand": [],
+    "matchingStatus": []
+  }
+}

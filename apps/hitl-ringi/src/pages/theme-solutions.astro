@@ -1,0 +1,13 @@
+---
+import AppShell from "../components/AppShell.astro";
+import PageHeader from "../components/PageHeader.astro";
+import OpportunityRequestsScreen from "../features/opportunityRequest/OpportunityRequestsScreen";
+---
+
+<AppShell>
+  <PageHeader
+    title="2. Theme / Solution Approval"
+    description="担当: 部署層。SalesPlanから提案されたTheme/Solutionを確認し、必要に応じて編集して承認します。"
+  />
+  <OpportunityRequestsScreen client:load initialTab="theme" fixedTab={true} />
+</AppShell>

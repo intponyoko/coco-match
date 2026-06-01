@@ -1,0 +1,81 @@
+---
+import "../styles/global.css";
+
+const navGroups = [
+  {
+    role: "全員",
+    items: [["/", "Home / Inbox"]],
+  },
+  {
+    role: "経営層",
+    items: [["/sales-plan", "1. SalesPlan承認"]],
+  },
+  {
+    role: "部署層",
+    items: [
+      ["/theme-solutions", "2. Theme / Solution承認"],
+      ["/project-requests", "3. PJ規模 / Requests承認"],
+    ],
+  },
+  {
+    role: "個人層",
+    items: [["/project-interest", "4. 年間PJ希望"]],
+  },
+  {
+    role: "部署層",
+    items: [["/matching", "5. Matching承認"]],
+  },
+  {
+    role: "管理",
+    items: [
+      ["/pipeline", "Pipeline Debug"],
+      ["/audit", "Audit"],
+    ],
+  },
+];
+
+const currentPath = Astro.url.pathname.replace(/\/$/, "") || "/";
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>coco-match</title>
+  </head>
+  <body>
+    <div class="app-layout">
+      <aside class="sidebar" aria-label="Primary navigation">
+        <h1 class="brand">coco-match</h1>
+        <nav>
+          {
+            navGroups.map((group, index) => (
+              <section class="nav-section" aria-labelledby={`nav-${index}-${group.role}`}>
+                <h2 id={`nav-${index}-${group.role}`} class="nav-section-title">
+                  {group.role}
+                </h2>
+                <ul class="nav-list">
+                  {group.items.map(([href, label]) => (
+                    <li>
+                      <a
+                        class="nav-link"
+                        href={href}
+                        aria-current={currentPath === href ? "page" : undefined}
+                      >
+                        {label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ))
+          }
+        </nav>
+      </aside>
+      <main class="main">
+        <slot />
+      </main>
+    </div>
+  </body>
+</html>

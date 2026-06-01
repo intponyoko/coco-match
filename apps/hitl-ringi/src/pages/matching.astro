@@ -1,0 +1,13 @@
+---
+import AppShell from "../components/AppShell.astro";
+import PageHeader from "../components/PageHeader.astro";
+import MatchingScreen from "../features/matching/MatchingScreen";
+---
+
+<AppShell>
+  <PageHeader
+    title="5. Matching Approval"
+    description="担当: 部署層。Requestに対するMatching結果を確認し、必要に応じて編集して承認します。"
+  />
+  <MatchingScreen client:load />
+</AppShell>

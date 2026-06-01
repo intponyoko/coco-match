@@ -1,2 +1,26 @@
+# Python-generated files
 __pycache__/
-exports/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+.DS_Store
+data/**
+.env
+.env.*
+!.env.example
+
+node_modules/
+.astro/
+dist/
+public/data/app-data.json
+.env
+.env.*
+!.env.example
+
+.codegraph

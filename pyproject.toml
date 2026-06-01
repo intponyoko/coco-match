@@ -1,16 +1,39 @@
 [project]
-name = "coco-matching-mock"
+name = "cocom"
 version = "0.1.0"
-description = "Streamlit mock app for assignment planning aligned with growth strategy"
+description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12,<3.14"
+requires-python = ">=3.14"
 dependencies = [
-    "pandas>=2.2.3",
-    "pandera>=0.31.1",
-    "streamlit>=1.44.0",
-    "watchdog>=6.0.0",
-    "z3-solver>=4.13.0",
+  "fastapi>=0.125.0",
+  "numpy>=2.4.6",
+  "pandas>=3.0.3",
+  "pandera>=0.31.1",
+  "streamlit>=1.57.0",
+  "uvicorn>=0.38.0",
+  "watchdog>=6.0.0",
 ]
 
-[tool.uv]
-package = false
+[project.scripts]
+run-all = "cocom.pipeline.run_all:main"
+generate-sample = "cocom.pipeline.generate_sample_data.pipeline:main"
+propose-theme-solutions = "cocom.pipeline.propose_theme_solutions.pipeline:main"
+propose-project-requests = "cocom.pipeline.propose_project_requests.pipeline:main"
+materialize-opportunities = "cocom.pipeline.materialize_opportunities.pipeline:main"
+propose-assignment-options = "cocom.pipeline.propose_assignment_options.pipeline:main"
+propose-assignments = "cocom.pipeline.propose_assignments.pipeline:main"
+finalize-assignments = "cocom.pipeline.finalize_assignments.pipeline:main"
+serve-api = "cocom.api.app:main"
+export-file-search = "cocom.pipeline.export_file_search:main"
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+
+[dependency-groups]
+dev = ["httpx>=0.28.1", "ruff>=0.15.13", "ty>=0.0.38"]
+
+
+[build-system]
+requires = ["uv_build>=0.11.8,<0.12.0"]
+build-backend = "uv_build"

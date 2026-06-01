@@ -1,0 +1,4 @@
+# Opportunity generation uses knowledge/past_cases as the source of truth.
+
+[portfolio]
+annual_opportunity_count = 20

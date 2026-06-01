@@ -1,0 +1,13 @@
+---
+import AppShell from "../components/AppShell.astro";
+import PageHeader from "../components/PageHeader.astro";
+import AuditScreen from "../features/workflow/AuditScreen";
+---
+
+<AppShell>
+  <PageHeader
+    title="Admin Audit"
+    description="管理者向けにブラウザ内に保持した承認履歴とデモ用状態を確認します。"
+  />
+  <AuditScreen client:load />
+</AppShell>

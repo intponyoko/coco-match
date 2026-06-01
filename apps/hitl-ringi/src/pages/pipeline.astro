@@ -1,0 +1,13 @@
+---
+import AppShell from "../components/AppShell.astro";
+import PageHeader from "../components/PageHeader.astro";
+import PipelineExecutionScreen from "../features/pipeline/PipelineExecutionScreen";
+---
+
+<AppShell>
+  <PageHeader
+    title="Pipeline Debug"
+    description="管理者向けにStateless API payload、Table approval、手動retryを確認します。通常業務はロール別ページで進めます。"
+  />
+  <PipelineExecutionScreen client:load />
+</AppShell>

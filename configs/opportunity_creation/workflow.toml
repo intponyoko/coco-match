@@ -1,0 +1,4 @@
+# Human-in-the-loop opportunity recommendation workflow settings.
+
+[recommendation]
+request_human_approval = true

@@ -1,0 +1,13 @@
+---
+import AppShell from "../components/AppShell.astro";
+import PageHeader from "../components/PageHeader.astro";
+import SalesPlanScreen from "../features/salesPlan/SalesPlanScreen";
+---
+
+<AppShell>
+  <PageHeader
+    title="1. SalesPlan Approval"
+    description="担当: 経営層。月別・Industry別のSalesPlanを確認し、稟議として承認します。"
+  />
+  <SalesPlanScreen client:load />
+</AppShell>
